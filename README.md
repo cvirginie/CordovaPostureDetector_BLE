@@ -5,13 +5,16 @@ Clone the repo
 
 `git clone https://github.com/cvirginie/CordovaPostureDetector_BLE.git`
 
+
 Navigate to the directory
 
 `cd CordovaPostureDetector_BLE/`
 
+
 Add the ios platform (not tested on Android)
 
 `cordova platform add ios`
+
 
 Build 
 

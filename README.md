@@ -18,6 +18,11 @@ Navigate to the directory
 `cd CordovaPostureDetector_BLE/`
 
 
+Install the dependencies
+
+`npm install`
+
+
 Add the ios platform (not tested on Android)
 
 `cordova platform add ios`

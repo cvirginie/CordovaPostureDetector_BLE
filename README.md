@@ -1,9 +1,9 @@
 # CordovaPostureDetector_BLE
 A cordova app to receive data from Arduino Posture Detector in BLE.
 
-Full project here => https://www.hackster.io/gini76/a-posture-detector-sending-bluetooth-data-to-a-cordova-app-36855e
+Full project here :
+https://www.hackster.io/gini76/a-posture-detector-sending-bluetooth-data-to-a-cordova-app-36855e
 
-The plugin used to communicate in BLE : https://github.com/don/cordova-plugin-ble-central/
 
 
 ### Install the app on iOS :
@@ -32,3 +32,5 @@ cordova build ios --buildFlag='-UseModernBuildSystem=0'
 ```
 
 Open the project in XCode and deploy on your device.
+
+The plugin used to communicate in BLE : https://github.com/don/cordova-plugin-ble-central/

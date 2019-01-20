@@ -1,6 +1,5 @@
-# CordovaPostureDetector_BLE
+# Cordova Application for the Posture Detector BLE
 A cordova app to receive data from Arduino Posture Detector in BLE.
-
 Full project here :
 https://www.hackster.io/gini76/a-posture-detector-sending-bluetooth-data-to-a-cordova-app-36855e
 
